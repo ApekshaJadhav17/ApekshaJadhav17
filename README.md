@@ -13,12 +13,12 @@
 ## 🧩 Expertise
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,go,fastapi,graphql,rest,llm" />
+  <img src="https://skillicons.dev/icons?i=react,ts,python,go,fastapi,graphql," />
 </p>
 
 <p align="center">
   <b>
-    React · TypeScript · Python · Go · GraphQL · FastAPI · LLMs · RAG · Agentic AI
+    React · TypeScript · Python · Go · GraphQL · FastAPI 
   </b>
 </p>
 
