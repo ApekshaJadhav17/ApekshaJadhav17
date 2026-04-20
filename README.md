@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/apeksha-jadhav/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://www.apekshajadhav.vercel.app">
+  <a href="https://apekshajadhav.vercel.app/">
     <img src="https://skillicons.dev/icons?i=react" height="40"/>
   </a>
   <a href="mailto:apekshajadhav28@gmail.com">
