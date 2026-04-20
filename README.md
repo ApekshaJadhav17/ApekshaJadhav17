@@ -13,7 +13,7 @@
 ## 🧩 Expertise
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,go,fastapi,graphql,restapi" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,go,fastapi,graphql,rest" />
 </p>
 
 <p align="center">
