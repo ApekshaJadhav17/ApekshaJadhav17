@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Apeksha Jadhav 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer • AI/LLM Builder • Systems Thinker</b>
+  <b>Full-Stack Engineer with expertise in React, TypeScript, FastAPI, Python • AI/LLM Builder • Systems Thinker</b>
 </p>
 
 <p align="center">
