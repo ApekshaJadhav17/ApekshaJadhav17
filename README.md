@@ -10,6 +10,20 @@
 
 ---
 
+## 🧩 Expertise
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,python,go,graphql,fastapi" />
+</p>
+
+<p align="center">
+  <b>
+    React · TypeScript · Python · Go · GraphQL · FastAPI · LLMs · RAG · Agentic AI
+  </b>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
